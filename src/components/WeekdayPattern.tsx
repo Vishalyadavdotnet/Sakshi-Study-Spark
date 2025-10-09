@@ -25,7 +25,7 @@ interface WeekdayPatternProps {
 
 const WeekdayPattern = ({ weekdayPattern, weekdayVsWeekend }: WeekdayPatternProps) => {
   const data = {
-    labels: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+    labels: ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
     datasets: [
       {
         label: "Study Hours",
