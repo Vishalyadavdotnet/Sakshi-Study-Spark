@@ -20,7 +20,6 @@ export const studyData: StudySession[] = [
   { date: "2025-10-15", startTime: "17:00", endTime: "21:00", hours: 4, subject: "Math", chapter: "percentage", notes: "Lecture" },
   { date: "2025-10-16", startTime: "18:00", endTime: "21:00", hours: 3, subject: "Sst", chapter: "life on earth", notes: "Lecture" },
   { date: "2025-10-17", startTime: "18:00", endTime: "21:00", hours: 3, subject: "Sst", chapter: "science", notes: "Lecture" },
-<<<<<<< HEAD
   { date: "2025-10-24", startTime: "21:00", endTime: "12:00", hours: 3, subject: "Sst", chapter: "ch 15", notes: "Lecture" },
   { date: "2025-10-24", startTime: "15:00", endTime: "17:00", hours: 2, subject: "Science", chapter: "ch 4", notes: "Lecture" },
   { date: "2025-10-24", startTime: "18:00", endTime: "21:00", hours: 3, subject: "math", chapter: "ch 8", notes: "Lecture" },
@@ -30,12 +29,3 @@ export const studyData: StudySession[] = [
   { date: "2025-10-26", startTime: "22:00", endTime: "12:00", hours: 2, subject: "sst", chapter: "ch 15", notes: "lecture" },
   { date: "2025-10-26", startTime: "15:00", endTime: "17:00", hours: 2, subject: "science", chapter: "ch 4", notes: "lecture" }];];
   { date: "2025-10-26", startTime: "18:00", endTime: "20:00", hours: 2, subject: "math", chapter: "ch 8", notes: "lecture" }];];
-  { date: "2025-10-27", startTime: "10:00", endTime: "12:00", hours: 3, subject: "Sst", chapter: "ch 15", notes: "learn" }];];
-  { date: "2025-10-27", startTime: "15:00", endTime: "17:00", hours: 2, subject: "Science", chapter: "ch 4", notes: "learn" }];];
-  { date: "2025-10-27", startTime: "20:00", endTime: "21:00", hours: 1, subject: "Math", chapter: "ch 8", notes: "lecture" }];];
-  { date: "2025-10-28", startTime: "10:00", endTime: "12:00", hours: 3, subject: "Sst", chapter: "ch 5,14,15", notes: "learn" }];];
-  { date: "2025-10-28", startTime: "15:00", endTime: "17:00", hours: 3, subject: "Science", chapter: "ch 6", notes: "Lecture" }];];
-  { date: "2025-10-28", startTime: "18:00", endTime: "20:30", hours: 2.5, subject: "Math", chapter: "ch 8", notes: "Lecture" }];];
-  { date: "2025-10-29", startTime: "18:00", endTime: "21:00", hours: 3, subject: "Math", chapter: "ch 8", notes: "Lecture" }];];
-vv=======
-];
