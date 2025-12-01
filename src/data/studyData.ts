@@ -95,5 +95,6 @@ export const studyData: StudySession[] = [
   { date: "2025-11-30", startTime: "18:00", endTime: "19:30", hours: 2.5, subject:  "English", chapter: "8", notes: "Lecture" },  
   { date: "2025-12-1", startTime: "16:00", endTime: "17:30", hours: 1.5, subject:  "Hindi", chapter: "18,19,", notes: "School pending" },  
   { date: "2025-12-1", startTime: "18:30", endTime: "20:30", hours: 2, subject:  "English", chapter: "9", notes: "Lecture" },  
+  { date: "2025-12-1", startTime: "20:30", endTime: "21:30", hours: 1, subject:  "Math", chapter: "9", notes: "Lecture" },  
 
 ];
