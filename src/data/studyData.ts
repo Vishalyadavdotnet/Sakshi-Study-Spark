@@ -168,7 +168,16 @@ export const studyData: StudySession[] = [
   { date: "2025-12-26", startTime: "16:00", endTime: "17:00", hours:  1, subject:  "Sst", chapter: "22", notes: "Revision" },    
   { date: "2025-12-26", startTime: "16:00", endTime: "17:00", hours:  1, subject:  "Sst", chapter: "22", notes: "Revision" },    
   { date: "2025-12-26", startTime: "20:00", endTime: "21:00", hours:  1, subject:  "Math", chapter: "12", notes: "Revision" },    
-   
+  { date: "2025-12-28", startTime: "10:00", endTime: "12:00", hours:  2, subject:  "Sst", chapter: "7", notes: "Revision" },    
+  { date: "2025-12-28", startTime: "15:00", endTime: "17:00", hours:  2, subject:  "Sst", chapter: "22", notes: "Revision" },    
+  { date: "2025-12-28", startTime: "19:00", endTime: "20:00", hours:  1, subject:  "English", chapter: "8", notes: "Revision" },       
+  { date: "2025-12-28", startTime: "20:00", endTime: "21:00", hours:  1, subject:  "Math", chapter: "12", notes: "Revision" },       
+  { date: "2025-12-29", startTime: "18:00", endTime: "19:00", hours:  1, subject:  "Sst", chapter: "7,22", notes: "Holiday H.W" },       
+  { date: "2025-12-29", startTime: "19:00", endTime: "20:00", hours:  1, subject:  "English", chapter: "8", notes: "Revision" },       
+  { date: "2025-12-29", startTime: "20:00", endTime: "21:00", hours:  1, subject:  "Math", chapter: "12", notes: "Holiday H.W" },       
+  { date: "2025-12-30", startTime: "10:00", endTime: "12:00", hours:  1, subject:  "Math", chapter: "12", notes: "Holiday H.W" },       
+  { date: "2025-12-30", startTime: "15:00", endTime: "17:00", hours:  1, subject:  "Sst", chapter: "7", notes: "Revision" },       
+  { date: "2025-12-30", startTime: "15:00", endTime: "17:00", hours:  1, subject:  "Sst", chapter: "7", notes: "Revision" },       
    
    
 
