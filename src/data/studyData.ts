@@ -201,6 +201,14 @@ export const studyData: StudySession[] = [
   { date: "2026-01-04", startTime: "19:00", endTime: "20:00", hours:  1, subject:  "Sst", chapter: "14", notes: "Revision" },            
   { date: "2026-01-04", startTime: "20:00", endTime: "21:00", hours:  1, subject:  "Math", chapter: "12", notes: "Revision" },            
   { date: "2026-01-06", startTime: "10:00", endTime: "12:00", hours:  1, subject:  "Math", chapter: "12", notes: "Revision" },            
+  { date: "2026-01-06", startTime: "14:00", endTime: "17:00", hours:  2, subject:  "Sst", chapter: "22", notes: "Revision" },            
+  { date: "2026-01-06", startTime: "18:30", endTime: "20:30", hours:  2, subject:  "Math", chapter: "12", notes: "Revision" },            
+  { date: "2026-01-06", startTime: "20:30", endTime: "21:30", hours:  1, subject:  "Sanskrit", chapter: "7", notes: "Revision" },            
+  { date: "2026-01-07", startTime: "9:00", endTime: "11:30", hours:  2.5, subject:  "Math", chapter: "12", notes: "Revision" },            
+  { date: "2026-01-07", startTime: "15:00", endTime: "16:30", hours:  1.5, subject:  "Sanskrit", chapter: "8", notes: "Revision" },            
+  { date: "2026-01-07", startTime: "18:30", endTime: "20:30", hours:  2, subject:  "Math", chapter: "12", notes: "Revision" },            
+  { date: "2026-01-07", startTime: "20:30", endTime: "21:30", hours:  1, subject:  "Hindi", chapter: "16", notes: "Revision" },            
+  { date: "2026-01-08", startTime: "10:00", endTime: "12:00", hours:  2, subject:  "Math", chapter: "12", notes: "Revision" },            
    
    
 
